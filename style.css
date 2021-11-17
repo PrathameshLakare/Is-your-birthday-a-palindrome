@@ -1,0 +1,75 @@
+
+
+body{
+  text-align: center;
+  margin: 0rem 3rem;
+  
+}
+#bday-input{
+  border-color:  black;
+  border-bottom-left-radius: 0.5rem;
+  font-size: 14px;
+  padding: 0.6rem 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  width: 100%;
+  max-width: 258px;
+}
+h1{
+  text-align: center;
+  color: white;
+  background-color: rgba(29, 26, 26, 0.952);
+  margin: 2rem 6rem;
+  padding: 1.5rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  border-radius: 1rem;
+}
+.label-input{
+  display: block;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+#show-btn{
+    color: white;
+    background-color: rgba(29, 26, 26, 0.952);
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: #fff;
+    margin: auto;
+    display: block;
+}
+#result{
+  font-size: x-large;
+  margin: 2rem 6rem;
+}
+.footer {
+    background-color: rgba(29, 26, 26, 0.952);
+    padding: 1rem 0rem;
+    text-align: center;
+    color:white;
+    border-radius: 1rem;
+    position: absolute;
+    bottom: 1rem;
+    left: 6rem;
+    right: 6rem;
+    margin: 0rem 3rem;
+} 
+.footer .link{
+    color:white;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
