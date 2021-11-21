@@ -44,6 +44,7 @@ h1{
 #result{
   font-size: x-large;
   margin: 2rem 6rem;
+  text-align: center;
 }
 .footer {
     background-color: rgba(29, 26, 26, 0.952);
